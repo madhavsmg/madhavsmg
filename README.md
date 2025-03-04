@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhav Kumar</h1>
-<h3 align="center">A passionate Developer from India  <img src="https://cdn.jsdelivr.net/npm/twemoji@11.0.1/2/svg/1f1ee-1f1f3.svg" width="25px"></h3>
+<h3 align="center">A passionate Software Developer from India  <img src="https://cdn.jsdelivr.net/npm/twemoji@11.0.1/2/svg/1f1ee-1f1f3.svg" width="25px"></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavsmg&label=Profile%20views&color=0e75b6&style=flat" alt="madhavsmg" /> </p>
